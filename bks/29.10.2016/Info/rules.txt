@@ -1,0 +1,64 @@
+Rules :
+
+File : Emergencies 
+------------------
+ETYPE 
+0 - Indoor
+1 - Outdoor
+
+EACTIVE 
+0 - Active
+1 - Not Active
+
+
+Table : Notificaiton rules :
+------------------
+NTYPE:
+	 E - EVENTS
+	 C - COMPLAINTS
+	 M - MYPROFILE
+	 p - CONTACTS
+	 Y - EMERGENCY
+	 G - GENERAL
+
+NTO 
+	0 - TO USER ID
+	1 - TO ALL
+	3 - ADMIN
+	4 - OWNER
+	5 - SUPER ADMIN
+
+NSTATUS
+	0 - UNREAD
+	1 - READ
+	
+NEMAIL
+	0 - SEND MAIL
+	1 - NO MAIL
+	
+NESMS
+	0 - SEND SMS
+	1 - NO SMS
+	
+
+	
+Table: COMPLAINTS
+---------------
+
+Complaint status codes 
+0 :	Opened
+1 : Closed
+2 : Escalated
+3 : Reopened
+
+Area
+0 : APTMT
+1 : OUTER AREA
+
+PRIORITY LEVEL codes 
+0 :	URGENT WITH IN 2 HOURS
+1 : BY TODAY
+2 : BY WEEKEND
+3 : NOT VERY URGENT
+
+

@@ -1,0 +1,63 @@
+Login System 
+Review System
+	Works Review
+	Worker Review
+Notification System of activities
+	Individual notification page
+
+Admin System
+	Create Notification to all/individual
+	Create Userid/Delete user
+	Adding Workers Details
+	Total complaints management
+		Allocate
+		Request
+		Add comment
+		Raise Complaint
+	Events
+		View events
+		Create event
+	Emergency info management
+	
+=====
+Jumbotron names and color change and h1 tag 
+SQL safe db queries
+Safe encrypted passwords
+Safe links display
+Individual forms/display to be editable
+Events
+	colors for registered / unregistered
+	color improvement for silver color event details
+	Upcoming Display Events for only next 31 days
+	Events pagination. Per page 10.
+	Event Date & Time separation - update
+	My events - panel arrangements
+	Admin 9999 to be replaced with admin name
+	nl2br for event indi description
+	Event Create 
+		Remove notice errors
+		Design form
+Complaints
+	Badge update for complaints home
+	COmplaints status numbers add
+	Individual complaint design
+	closed complaints only top 3 , for more click more with pagination 10 
+	Complaints Raise form Design 
+	Add complaints priority
+	Textarea display info
+	Complaint area in raise complaint to be corrected
+Myprofile
+	user details
+	change password
+	
+Contacts
+	categories with certain type alone to be displayed
+	if no contact, display its parent contact details sql 
+Emergency
+	Add distance and sort according
+	Inhouse phone number to be replaed with intercom number
+	panel border design looks
+Security 
+htc docs
+fancy url
+Erros - SQL and 404 and exit()

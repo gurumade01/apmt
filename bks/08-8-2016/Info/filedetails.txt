@@ -1,0 +1,7 @@
+backevent.php 
+Gets all events details list 
+Register / De-Register a event
+creates a event
+
+=========
+

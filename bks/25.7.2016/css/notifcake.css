@@ -1,0 +1,44 @@
+body {
+	width:600px;
+	margin:auto;
+}
+
+.notif .dropdown-menu {
+	padding:0;
+	min-width:250px;
+	max-width:300px;
+	word-wrap:break-word;
+}
+
+.notif .dropdown-menu li {
+	padding:0;
+	border-bottom:1px solid grey;
+	background-color:pink;
+	position:relative;
+}
+
+.notif .dropdown-menu li a{
+	padding: 10px 5px;;
+}
+
+#nfoot a{
+	padding:3px;
+}
+
+#nfoot{
+	border-bottom:none;
+}
+
+.notif .dropdown-menu li a i{
+	margin-right: 5px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.notiftext {
+	word-wrap: break-word;
+}

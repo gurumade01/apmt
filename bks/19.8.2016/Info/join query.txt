@@ -1,0 +1,5 @@
+$query ="SELECT eventdetails.ETITLE AS ETITLE,eventdetails.EBYNAME AS EBYNAME,eventdetails.EBY AS EBY,eventdetails.EDATE AS EDATE,eventusers.EVEID AS EID
+				 FROM eventdetails 
+				 INNER JOIN eventusers 
+				 ON eventdetails.EID=eventusers.EVEID 
+				 WHERE eventusers.USERID=".$userlogid."  ";

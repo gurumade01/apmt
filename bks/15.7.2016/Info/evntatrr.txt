@@ -1,0 +1,20 @@
+TABLES 
+=====
+
+Events Confirmed:
+sort by date heading:
+id,title,by,more
+
+===========
+Events Choice :
+id,title,by,date,more
+chioce
+
+===========
+Make event :
+title,desc,date,type
+
+===========
+
+Reg events :
+id,title,by, more, update status.

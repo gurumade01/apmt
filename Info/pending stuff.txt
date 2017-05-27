@@ -1,0 +1,89 @@
+LOGO
+NOTIFICAITONS
+TOP MENU ICONS SPACE ADJUST
+FOOTER
+====
+
+A TAG - SELECT COLOR
+
+====
+
+Success popup box
+Event date and time in db err
+
+====
+
+Complaint :
+
+Separate date and time
+Date format
+Complaint raise default priority level
+escalated complaints color
+closed complaints cid on line 73 for empty 
+====
+
+MY Profile :
+Activate Account
+Profile Form editable 
+Reset Password
+
+For workers - 
+
+
+====
+
+Contacts:
+Default entry time poc
+
+====
+
+Emergency:
+colors for inside aptmt
+====================================
+
+Forms editable - events / user / complaint
+Date & Time separation
+Notification system
+	Mailer
+
+Escalation system
+Complaint Timer
+
+Admin
+	Create user
+	Adding worker Details
+	Total complaints management
+		Allocate
+		Request
+		Add comment
+		Raise Complaint
+	Emergency info management
+	Workers
+		Remove "tome" statbar for workers
+	Performance page 
+	search page
+	Workers check visible
+	Add category and poc
+	
+	
+Review System
+	Works Review
+	Worker Review
+
+Events
+	Cancel event
+	My events registered users list 
+
+Login
+	user add details if not entered
+	Attach signup and reset password
+
+
+SQL safe db queries
+Safe encrypted passwords
+Safe links display
+Fancy URL
+htc docs
+Erros - SQL and 404 and exit()
+Pagination
+Logo's

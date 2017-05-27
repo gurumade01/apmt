@@ -1,0 +1,28 @@
+body {
+	width:600px;
+	margin:auto;
+}
+
+.dropdown-menu {
+	padding:0;
+	min-width:250px;
+}
+
+.dropdown-menu li {
+	padding:0;
+	border-bottom:1px solid grey;
+	background-color:pink;
+	position:relative;
+}
+
+.dropdown-menu li a{
+	padding: 10px 5px;;
+}
+
+#nfoot a{
+	padding:3px;
+}
+
+#nfoot{
+	border-bottom:none;
+}

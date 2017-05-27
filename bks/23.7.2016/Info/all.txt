@@ -1,0 +1,12 @@
+// get POC of category
+		if($csubcat == "") {
+			$catval = $ccate;
+		} else {
+			$catval = $csubcat;
+		}
+		
+		$cpocquery = "SELECT CPOC FROM category WHERE CID=".$catval." LIMIT 1" ;
+		$cpocresult = mysqli_query($link,$cpocquery);
+		$cpocrow=mysqli_fetch_array($cpocresult);
+		$cto= $cpocrow["CPOC"];
+		

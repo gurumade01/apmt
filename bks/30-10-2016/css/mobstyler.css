@@ -1,0 +1,69 @@
+@media screen  and (max-width: 979px) /* Tablet */ {
+
+}
+
+@media screen and (max-width: 500px) /* Mobile */ {
+
+  	/* Top nav */
+
+	
+	#topnavui {
+		margin:0;
+		padding:0;
+	}
+	
+	#topnavui li{
+		padding:5px 3px;
+		font-size:0.94em;
+	}
+	
+	.navbadge1 {
+		right:2px;
+	}
+	
+	/*  end of top nav */
+ 
+
+	
+	.cateText {
+		display:none;
+		padding:0;
+	}
+	
+	
+	#navui li{
+		padding: 8px 12px;
+	}
+	
+	#navui li i{
+		margin-left:2px;
+		font-size:1.2em;
+	}
+	
+	.sicon {
+		position:relative;
+		right:-2px;
+	}
+	
+	
+	
+		
+	
+	/* 	logo */
+	
+	#logodiv{
+		width: 80px;
+		height: inherit;
+	}
+	
+	#logobaricons {
+		margin:0;
+	}
+	
+	
+	
+	
+	
+	
+	
+}

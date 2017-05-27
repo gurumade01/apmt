@@ -1,0 +1,232 @@
+body {
+	background-color:#F8F8F8;
+}
+.container-table {
+    display: table;
+}
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+/* end of global */
+
+
+#logonav {
+	padding:8px 12px 3px ;
+	border:1px solid #E9E9E9;
+	background-color:#FFFFFF;
+}
+
+
+#logobaricons {
+	margin:10px 0;
+}
+
+#topnavui{
+	margin-top:0px;
+}	
+
+#topnavui a:hover{
+	color:red;
+}
+
+#topnavui li{
+	list-style:none;
+	display:inline;
+	padding:5px 15px;
+}
+
+#topnavui li i{ 
+	margin-right:5px;
+	font-size:1.2em;
+}
+
+#topnavui li span{ 
+	font-weight:bold;
+}
+
+
+.navnotificon {
+	position:relative;
+}
+
+.navbadge1 {
+	position:absolute;
+	font-size:0.8em;
+	padding:2px 4px;
+	top:-2px;
+	right:10px;
+}
+
+/* Start of main nav */
+
+#mainnav {
+	background-color:#FFFFFF;
+	border-bottom:1px solid #E9E9E9;
+	text-align:center;
+}
+
+
+#navui{
+	width: 100%;
+    display: inline-block;
+    text-align: center;
+    list-style: none;
+	margin:0;
+	padding:0;
+}
+
+#navui li{
+	display: inline-block;
+	text-align:center; 
+	padding: 8px;
+	margin-right:-4px;
+	border-left:1px solid #E9E9E9;
+}
+
+#navui li:last-child{
+	border-right:1px solid #E9E9E9;
+}
+
+.cateText {
+	margin-left:8px;
+}
+
+#navui li a {
+    text-decoration:none;
+	color:black;
+}
+
+#navui li a:link {
+    color: black;
+}
+
+/* visited link */
+#navui li a:visited {
+    color: black;
+}
+
+/* mouse over link */
+#navui li a:hover {
+    color: red;
+}
+
+/* selected link */
+#navui li a:active {
+    color: red;
+}
+
+
+#navui li:link {
+    color: black;
+}
+
+/* visited link */
+#navui li:visited {
+    color: black;
+}
+
+/* mouse over link */
+#navui li:hover {
+    color: red;
+	border-bottom:2px solid red;
+	padding-bottom:6px;
+}
+
+/* selected link */
+#navui li:active {
+    color: red;
+	border-bottom:2px solid red;
+	margin-bottom:-1px;
+}
+
+
+/*  sub cate */
+.headimage {
+	margin-bottom:5px;
+}
+
+.eventjumbo {
+	background-color:#CC99CC;
+}
+.subcate a i {
+	margin-right:20px;
+}
+
+
+/* Display events today */
+.eveToday {
+	padding:0;
+	margin:2px;
+}
+
+.panel-body {
+	padding:4px;
+}
+
+.eveBut {
+	margin-top:5px;
+}
+
+.eveSchedule {
+	color:#CCCCCC;
+}
+
+.eveSchedule i.spa{ 
+	padding-left:6px;
+}
+
+
+
+/* Individual Page events */
+
+.ievewell {
+	background-color:#FFFFFF;
+}
+
+#ieveDetails i{
+	color:#CCCCCC;
+	padding-left:6px;
+	margin-right:4px;
+}
+
+.ieveUnit {
+	padding:3px;
+}
+
+.ieveRegStat {
+	color:#999999;
+}
+
+/* Comp List */
+
+.compListDet{
+	margin:0;
+	padding:0
+}
+
+
+.compListDet li{
+	list-style:none;
+	color:#9e9c9c;
+}
+
+.cTextDef {
+	font-weight:bold;
+}
+
+
+
+
+
+/* complaint raise */
+#getsubCat,#labcsubcate {
+		display:none;
+}
+
+
+
+
+
+

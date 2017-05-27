@@ -1,0 +1,21 @@
+Logo
+Notifications
+Login / Logout
+Events
+	Events Today
+	Upcoming events
+	Registered events
+	Make Event
+Complaints
+	Raise Complaint
+	Your Complaints
+		Active
+		Resolved
+My Profile
+	Your events
+	Your complaints
+POC
+	Categories
+Emergency
+	Contacts
+	Information Point

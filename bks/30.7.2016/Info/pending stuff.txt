@@ -1,0 +1,44 @@
+Form Design
+Forms editable - events / user / complaint
+nl2br for description
+Date & Time separation
+Notification system
+Escalation system
+
+Admin
+	Create user
+	Adding worker Details
+	Total complaints management
+		Allocate
+		Request
+		Add comment
+		Raise Complaint
+	Emergency info management
+	Workers
+		Remove "tome" statbar for workers
+	Performance page 
+	search page
+	Workers check visible
+	
+Review System
+	Works Review
+	Worker Review
+
+Events
+	colors for registered / unregistered
+	color improvement for silver color event details
+	My events registered users list 
+
+Login
+	user add details if not entered
+	Attach signup and reset password
+
+
+SQL safe db queries
+Safe encrypted passwords
+Safe links display
+Fancy URL
+htc docs
+Erros - SQL and 404 and exit()
+Pagination
+Logo's

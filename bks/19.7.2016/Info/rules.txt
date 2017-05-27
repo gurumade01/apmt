@@ -1,0 +1,12 @@
+Rules :
+
+File : Emergencies 
+------------------
+ETYPE 
+0 - Indoor
+1 - Outdoor
+
+EACTIVE 
+0 - Active
+1 - Not Active
+

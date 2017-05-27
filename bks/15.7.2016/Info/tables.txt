@@ -1,0 +1,73 @@
+Members Creds Table : *****
+id
+userid
+password
+
+=========
+
+Members Details: ******
+id
+User id
+Date and time of registration
+Name
+aSTATUS : Active or Passive
+Type - Resident, worker, admin, Top-Admin, Developer
+Apartment Number
+Worker category
+worker subcategory
+Role
+Worker work type FROM
+Contact number
+Email
+Reporting to
+
+
+=========
+
+Complaints : *******
+id
+Complaint id
+Complaint tite
+Complaint Desc
+Complaint Images
+Priority type
+Raised by
+Date and time
+Assigned to
+Status
+Area of problem
+Category
+Subcategory
+Feed Notes
+
+==========
+
+Resources: *******
+id
+Rid
+Rname
+Rcategory
+Rsubcategory
+Dates of availability
+Fees
+POC Name
+POC Contact
+Status
+
+========
+
+Resource Booking : ******
+id
+Userid
+Resource id
+Dates of availability
+
+
+========
+
+
+MEMBERS ID
+AREA ID
+CATEGORIES ID
+
+
